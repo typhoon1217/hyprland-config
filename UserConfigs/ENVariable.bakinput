@@ -94,7 +94,7 @@ exec-once = fcitx5 -d --replace
 
 # Input settings
 input {
-    kb_layout = us
+    kb_layout = kr
     kb_options =
     follow_mouse = 1
 }
