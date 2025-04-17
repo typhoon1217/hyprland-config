@@ -9,6 +9,6 @@ plugins = [
 
 [scratchpads.term]
 animation = "fromTop"
-command = "kitty --class kitty-dropterm"
-class = "kitty-dropterm"
+command = "ghostty"
+class = "ghostty"
 size = "75% 60%"
